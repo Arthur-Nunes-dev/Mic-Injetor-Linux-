@@ -1,5 +1,4 @@
 
-```markdown
 # Mic-Injetor-Linux 🎤
 
 Este repositório contém um utilitário de "autoinstalação" para resolver problemas de áudio em microfones USB no Linux (focado no modelo ME6S). Ele automatiza a criação de uma ponte de áudio de baixo nível entre o **ALSA (Kernel)** e o **Pipewire/PulseAudio**.
@@ -19,18 +18,15 @@ Este repositório contém um utilitário de "autoinstalação" para resolver pro
 
 2. **Dê permissão de execução**:
    Abra o terminal na pasta onde você baixou o arquivo e rode:
-   ```bash
+```bash
    chmod +x instalar_injetor.sh
 
 ```
 
 3. **Execute o instalador**:
 ```bash
-./instalar_injetor.sh
-
+   ./instalar_injetor.sh
 ```
-
-
 
 ---
 
